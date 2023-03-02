@@ -1,0 +1,100 @@
+.block1 {
+    padding: 170px 307px;
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 1000px;
+    background: linear-gradient(grey);
+    align-items: center;
+
+}
+
+.header-tittle {
+    color: rgb(253, 253, 253);
+    text-align: center;
+    font-size: 65px;
+    font-weight: 700;
+
+
+}
+
+.header-subtittle {
+    text-align: center;
+    color: rgb(248, 247, 247);
+    padding-top: 0px;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.button {
+    align-items: center;
+    padding: 16px 12px;
+    background: #FF5959;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    border: none;
+    
+}
+
+.block2 {
+    text-align: center;
+    padding-top: 112px;
+
+
+}
+
+.block2-title {
+    font-size: 50px;
+    font-weight: 700;
+
+}
+
+.block2-subtittle {
+    margin: 20px 375px;
+
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 338px;
+}
+
+.btn {
+    font-weight: 700;
+    font-size: 30px;
+    background-color: #FAFAFA;
+    border: none;
+    height: 123px;
+    left: 338px;
+}
+
+.btn2 {
+    font-weight: 700;
+    font-size: 30px;
+    border: #FF5959;
+    height: 123px;
+    left: 338px;
+    background: #FFEEEE;
+    color: #FF5959;
+}
+.line{
+    margin: 20px 375px;
+}
+.taka{
+    text-align: center;
+    font-weight: 400;
+font-size: 18px;
+color: #B3B3B3;
+    
+}
+.button1{
+    margin: 10px 670px;
+    padding: 16px 12px;
+    background: #FF5959;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    border: none;
+}
